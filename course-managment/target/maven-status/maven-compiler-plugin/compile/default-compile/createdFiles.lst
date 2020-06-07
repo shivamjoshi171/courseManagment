@@ -1,0 +1,6 @@
+com/course/managment/model/Student.class
+com/course/managment/datareop/CourseRepo.class
+com/course/managment/datareop/StudentRepo.class
+com/course/managment/impliment/StudentImp.class
+com/course/managment/model/Courses.class
+com/course/managment/impliment/CourseImp.class
